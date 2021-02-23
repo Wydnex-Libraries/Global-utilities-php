@@ -1,0 +1,16 @@
+{
+    "name": "wydnex-libraries/global-utilities-php",
+    "description": "global utilities",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [{
+        "name": "wydnex",
+        "email": "ccondori@wydnex.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Fedatario\\": "src/"
+        }
+    },
+    "require": {}
+}
